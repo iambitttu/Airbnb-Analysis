@@ -74,7 +74,7 @@ Availability patterns were analyzed, indicating occupancy rates and demand fluct
 
 Location-based insights highlighted price disparities in specific regions or neighborhoods. Users could explore these insights interactively.
 
-## 6. Conclusion
+## 4. Conclusion
 
 ### Summary of Insights
 
