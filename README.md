@@ -1,5 +1,7 @@
 # Airbnb Analysis
 
+[Airbnb Analysis Report.pdf](https://github.com/iambitttu/Airbnb-Analysis/files/12705574/Airbnb.Analysis.Report.pdf)
+
 The Airbnb Analysis project aims to analyze Airbnb data using MongoDB Atlas, perform data cleaning and preparation, develop interactive geospatial visualizations, and create dynamic plots to gain insights into pricing variations, availability patterns, and location-based trends in the travel industry and property management domain. This report provides an overview of the project's objectives, methodology, findings, and key takeaways.
 
 
