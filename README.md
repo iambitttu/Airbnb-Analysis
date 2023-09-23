@@ -22,7 +22,7 @@ The primary objectives of this project include:
 5. Examining availability patterns and demand fluctuations across seasons.
 6. Investigating location-based insights for specific regions or neighborhoods.
 7. Creating interactive visualizations for user exploration.
-8. Building a comprehensive dashboard using Tableau or Power BI for presenting key insights.
+8. Building a comprehensive dashboard using Power BI for presenting key insights.
 
 ### Data Source
 
